@@ -17,7 +17,7 @@ const Hero = () => {
               <div>
                 <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold">
                   {title}
-                  <p className="bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary">
+                  <p className="bg-clip-text text-transparent bg-gradient-to-b from-primary to-secondary text-right text-sm">
                     by Anonymous
                   </p>
                 </h1>
